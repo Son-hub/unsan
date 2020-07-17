@@ -54,17 +54,17 @@ public class total {
 			}
 
 		}
-
-		int o = 0;
-		int x = 0;
-
-		if (dab == gungdab) {
-			o++;
-		} else {
-			x++;
-		}
-		System.out.println("맞은 갯수: " + o);
-		System.out.println("틀린 갯수: " + x);
+//
+//		int o = 0;
+//		int x = 0;
+//
+//		if (dab == gungdab) {
+//			o++;
+//		} else {
+//			x++;
+//		}
+//		System.out.println("맞은 갯수: " + o);
+//		System.out.println("틀린 갯수: " + x);
 	}
 
 }

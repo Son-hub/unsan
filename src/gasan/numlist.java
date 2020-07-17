@@ -31,4 +31,6 @@ public class numlist {
 		Scanner sc = new Scanner(System.in);
 		return sc.next();
 	}
+	
+	
 }
